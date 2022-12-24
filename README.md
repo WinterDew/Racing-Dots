@@ -2,4 +2,4 @@
 
 Demo scene made with Godot Game Engine
 
-[]("https://raw.githubusercontent.com/CoderTatva-2006/Racing-Dots/main/Demo.png")
+![Demo Scene](https://github.com/CoderTatva-2006/Racing-Dots/blob/main/Demo.png)
